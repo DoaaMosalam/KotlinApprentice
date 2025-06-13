@@ -10,6 +10,7 @@ fun main() {
 Then, set it to the average of your age and my own age of 30.*/
     var averageAge:Double=25.0
     averageAge=30.0
+
 //================================================================================================
     /*Create a constant called testNumber and initialize it with whatever integer you’d
 like. Next, create another constant called evenOdd and set it equal to testNumber
