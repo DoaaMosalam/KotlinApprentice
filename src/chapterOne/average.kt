@@ -1,6 +1,6 @@
 package chapterOne
 
-fun main(args: Array<String>) {
+fun main() {
    
     val a:Double=23.8
     val b:Double=29.8

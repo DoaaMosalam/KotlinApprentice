@@ -1,6 +1,6 @@
 package chapterOne
 
-fun main(args: Array<String>) {
+fun main() {
     /*1. Declare a constant of type Int called myAge and set it to your age.*/
      val myAge:Int=30
 
