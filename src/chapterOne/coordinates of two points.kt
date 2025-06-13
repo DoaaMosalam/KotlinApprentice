@@ -2,7 +2,7 @@ package chapterOne
 
 import java.lang.Math.sqrt
 
-fun main(args: Array<String>) {
+fun main() {
 //     val x1: Double = 2.0
 //     val y1: Double = 3.0
 //     val x2: Double = 4.0
