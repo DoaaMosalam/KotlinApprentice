@@ -1,6 +1,6 @@
 # Kotlin Apprentice – Practice Solutions 📘🧑‍💻
 
-Welcome to my personal repository where I’m solving and documenting all the exercises and hands-on projects from the **Kotlin Apprentice** book by [Kodeco](https://www.kodeco.com/books/kotlin-apprentice) (formerly RayWenderlich).
+Welcome to my personal repository where I’m solving and documenting all the exercises and hands-on projects from the **Kotlin Apprentice** book by (formerly RayWenderlich).[Kotlin Apprentice.pdf](https://github.com/user-attachments/files/20728808/Kotlin.Apprentice.pdf)
 
 ## 📌 Purpose
 
@@ -9,9 +9,8 @@ This repo is part of my Kotlin learning journey. I’m following the Kotlin Appr
 ---
 
 ## 📚 Book Reference
-
-- **Book Title:** Kotlin Apprentice (Latest Edition)
-- **Official Companion Repo:** [kodecocodes/ka-materials](https://github.com/kodecocodes/ka-materials)
+** Kotlin Apprentice (Latest Edition)
+- **Book Title:[Kotlin Apprentice.pdf](https://github.com/user-attachments/files/20728808/Kotlin.Apprentice.pdf)
 
 ---
 
