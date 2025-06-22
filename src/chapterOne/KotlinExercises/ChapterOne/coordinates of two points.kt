@@ -1,4 +1,4 @@
-package chapterOne
+package chapterOne.KotlinExercises.ChapterOne
 
 import java.lang.Math.sqrt
 

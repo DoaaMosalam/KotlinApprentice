@@ -1,4 +1,4 @@
-package chapterOne
+package chapterOne.KotlinExercises.ChapterOne
 
 fun main() {
     val a:Double=23.8

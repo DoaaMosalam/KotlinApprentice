@@ -1,4 +1,4 @@
-package chapterOne
+package chapterOne.KotlinExercises.ChapterOne
 /*Declare a constant exercises with value 9 and a variable exercisesSolved with
 value 0. Increment this variable every time you solve an exercise (including this
 one)*/

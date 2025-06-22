@@ -1,4 +1,4 @@
-package chapterOne
+package chapterOne.KotlinExercises.ChapterOne
 
 fun main() {
     /*1. Declare a constant of type Int called myAge and set it to your age.*/
