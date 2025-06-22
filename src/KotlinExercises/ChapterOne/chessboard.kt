@@ -1,4 +1,4 @@
-package chapterOne.KotlinExercises.ChapterOne
+package KotlinExercises.ChapterOne
 /* Suppose the squares on a chessboard are numbered left to right, top to bottom, with
 0 being the top-left square and 63 being the bottom-right square. Rows are
 numbered top to bottom, 0 to 7. Columns are numbered left to right, 0 to 7. Declare

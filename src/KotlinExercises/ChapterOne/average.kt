@@ -1,4 +1,4 @@
-package chapterOne.KotlinExercises.ChapterOne
+package KotlinExercises.ChapterOne
 
 fun main() {
     val a:Double=23.8

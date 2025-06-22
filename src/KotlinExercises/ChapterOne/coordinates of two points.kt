@@ -1,4 +1,4 @@
-package chapterOne.KotlinExercises.ChapterOne
+package KotlinExercises.ChapterOne
 
 import java.lang.Math.sqrt
 

@@ -1,4 +1,4 @@
-package chapterOne.KotlinExercises.ChapterOne
+package KotlinExercises.ChapterOne
 
 /*A circle is made up of 2𝜋 radians, corresponding with 360 degrees. Declare a
 constant degrees of type Double and assign it an initial value. Calculate the

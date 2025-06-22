@@ -1,4 +1,4 @@
-package chapterOne.KotlinExercises.ChapterOne
+package KotlinExercises.ChapterOne
 /*A temperature expressed in °C can be converted to °F by multiplying by 1.8 then
 incrementing by 32. In this challenge, do the reverse: convert a temperature from °F
 to °C. Declare a constant named fahrenheit of type Double and assign it a value.

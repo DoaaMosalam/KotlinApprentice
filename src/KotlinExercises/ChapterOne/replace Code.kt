@@ -1,4 +1,4 @@
-package chapterOne.KotlinExercises.ChapterOne
+package KotlinExercises.ChapterOne
 /* Consider the following code:
 val a: Int = 46
 val b: Int = 10
